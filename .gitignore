@@ -1,0 +1,6 @@
+# python
+*.pyc
+*.pyo
+
+# nodejs
+node_modules
